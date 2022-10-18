@@ -1,4 +1,3 @@
-## Consumer choices under new payment method
 ## Jaemin Son, Mehmet Huseyin Bilgin, Doojin Ryu
 ## Financial Innovation 8(82), Published in High ranked SSCI Journal in Finance
 
